@@ -1,4 +1,4 @@
 ## Hi there 👋
 
 ## Certifications:
-![Vue Sernior Certificate](./vue-senior-certificate.pdf)
+![Vue Sernior Certificate](./vue-senior-certification.pdf)
